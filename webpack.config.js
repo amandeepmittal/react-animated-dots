@@ -10,7 +10,7 @@ module.exports = {
   },
   resolve: {
     alias: {
-      'react-animated-dots': path.join(__dirname, 'src')
+      reactanimateddots: path.join(__dirname,'src')
     }
   },
   module: {
