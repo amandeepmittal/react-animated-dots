@@ -1,0 +1,28 @@
+{
+  "name": "react-animated-dots",
+  "version": "0.1.0",
+  "description": "Three dots loader for Reactjs Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeepmittal/react-animated-dots.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "js",
+    "animate",
+    "loading",
+    "loader",
+    "dots"
+  ],
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amandeepmittal/react-animated-dots/issues"
+  },
+  "homepage": "https://github.com/amandeepmittal/react-animated-dots#readme"
+}
