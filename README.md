@@ -1,7 +1,7 @@
 # react-animated-dots
 ⚛ Three dots loader for Reactjs Applications.
 
-[![npm](https://img.shields.io/npm/v/trimify.svg?style=flat-square)](https://www.npmjs.com/package/react-animated-dots)
+[![npm](https://img.shields.io/npm/v/react-animated-dots.svg?style=flat-square)](https://www.npmjs.com/package/react-animated-dots)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 
 ## Installation
@@ -50,7 +50,7 @@ $ npm publish
 
 
 ### Contributions
-Contributions of any kind welcome in terms of PR(s) but please follow directory structure and conventions for better collaboration.
+Contributions of any kind welcome in terms of PR(s) but please follow directory structure and code conventions for better collaboration.
 
 ---
 
