@@ -36,5 +36,10 @@
     "raw-loader": "0.5.1",
     "webpack": "3.5.5",
     "webpack-dev-server": "2.7.1"
+  },
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "styled-components": "2.1.2"
   }
 }
