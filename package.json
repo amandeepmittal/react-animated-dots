@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "description": "Three dots loader for Reactjs Applications",
   "main": "index.js",
+  "files": ["dist"],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server",
+    "example": "NODE_ENV=production webpack -p",
+    "build": "babel src -d dist",
+    "clean": "rm -rf dist",
+    "dist": "npm run clean && npm run build"
   },
   "repository": {
     "type": "git",
