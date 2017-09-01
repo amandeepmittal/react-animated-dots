@@ -1,10 +1,16 @@
 import React from 'react';
-// import { H1 } from 'react-animated-dots';
+import { Dot } from 'reactanimateddots';
 
 const App = () => {
-  <div>
-    {/*<H1>Hello World!</H1>*/}
-  </div>
+  return (
+    <div>
+      <h2>
+        <Dot>.</Dot>
+        <Dot>.</Dot>
+        <Dot>.</Dot>
+      </h2>
+    </div>
+  );
 };
 
 export default App;
