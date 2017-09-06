@@ -4,6 +4,8 @@
 [![npm](https://img.shields.io/npm/v/react-animated-dots.svg?style=flat-square)](https://www.npmjs.com/package/react-animated-dots)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 
+![](http://i.imgur.com/F974dxj.gif)
+
 ## Installation
 
 ```shell
