@@ -1,9 +1,11 @@
 {
   "name": "react-animated-dots",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Three dots loader for Reactjs Applications",
   "main": "index.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "start": "webpack-dev-server",
     "example": "NODE_ENV=production webpack -p",
@@ -43,8 +45,8 @@
     "webpack-dev-server": "2.7.1"
   },
   "dependencies": {
-    "react": "15.6.1",
-    "react-dom": "15.6.1",
-    "styled-components": "2.1.2"
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "styled-components": "4.2.0"
   }
 }
